@@ -1,0 +1,13 @@
+Simulation Results:
+Total Trials: 1000000000
+Any two people rolling the same number twice: 3357338 occurrences
+Probability: 0.00335734
+
+Predefined two people rolling the same number twice: 93454 occurrences
+Probability: 0.00009345
+
+Predefined two people rolling 99 first and 6 second: 5 occurrences
+Probability: 0.00000001
+
+Any two people rolling 99 first and 6 second: 313 occurrences
+Probability: 0.00000031
